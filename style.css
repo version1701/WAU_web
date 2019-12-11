@@ -24,27 +24,28 @@
   display: block;
   clear: both; }
 
-.item {
-  float: left; }
-  .item img {
-    width: 100%; }
+.grid-sizer, .item {
+  width: 20%; }
+
+.item img {
+  width: 100%; }
 
 .collars {
-  width: 54%; }
+  width: 60%; }
 
 .lashes {
-  width: 45%; }
+  width: 40%; }
 
 .roulettes {
-  width: 34%; }
+  width: 40%; }
 
 .logo {
-  width: 12%; }
+  width: 20%; }
 
 .bages {
-  width: 21%; }
+  width: 20%; }
 
 .family {
-  width: 21%; }
+  width: 20%; }
 
 /*# sourceMappingURL=style.css.map */

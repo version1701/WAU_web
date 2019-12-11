@@ -51,12 +51,13 @@ $color-lightgray: #F8F8F8;
 }
 
 
-//.grid-sizer{
-//  width: 100%;
-//}
+.grid-sizer, .item {
+  width: 20%;
+}
+
 
   .item{
-    float: left;
+    //float: left;
     img{
       width: 100%;
     }
@@ -64,48 +65,59 @@ $color-lightgray: #F8F8F8;
 
 
   .collars{
-    width: 54%;
+    width: 60%;
     //position: absolute;
     //top: 0;
     //left: 0;
 
   }
 
-  .lashes{
-    width: 45%;
-    //position: absolute;
-    //top: 0;
-    //left: 55%;
-  }
+.lashes{
+  width: 40%;
+  //position: absolute;
+  //top: 0;
+  //left: 55%;
+}
+
+
+
+
+
 
   .roulettes{
-    width: 34%;
+    width: 40%;
     //position: absolute;
     //top: 38%;
     //left: 7%;
 
   }
 
-  .logo{
-    width: 12%;
+
+
+
+.logo{
+    width: 20%;
     //position: absolute;
     //top: 38%;
     //left: 42%;
   }
 
   .bages{
-    width: 21%;
+    width: 20%;
     //position: absolute;
     //top: 63%;
     //left: 42%;
   }
 
   .family{
-    width: 21%;
+    width: 20%;
     //position: absolute;
     //top: 63%;
     //left: 64%;
   }
+
+
+
 
 
 
